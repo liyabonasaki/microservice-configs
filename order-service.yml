@@ -1,0 +1,5 @@
+server:
+  port: 0
+
+custom:
+  message: Hello Order Service Config
