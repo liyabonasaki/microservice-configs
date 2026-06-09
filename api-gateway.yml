@@ -127,3 +127,6 @@ logging:
     org.springframework.cloud.gateway: DEBUG
     org.springframework.cloud.gateway.filter.ratelimit: DEBUG
     org.springframework.data.redis: DEBUG
+
+custom:
+  message: Gateway Config Loaded From Git
